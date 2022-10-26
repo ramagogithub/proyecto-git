@@ -1,0 +1,14 @@
+[1mdiff --git a/prueba1.docx b/prueba1.docx[m
+[1mdeleted file mode 100644[m
+[1mindex c972987..0000000[m
+[1m--- a/prueba1.docx[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-Prueba 1 curso análisis datos[m
+[1mdiff --git a/prueba2.docx b/prueba2.docx[m
+[1mindex 2e7c955..57df6ee 100644[m
+[1m--- a/prueba2.docx[m
+[1m+++ b/prueba2.docx[m
+[36m@@ -1 +1,2 @@[m
+ Otra prueba[m
+[32m+[m[32mModificación del archivo pruebas[m
